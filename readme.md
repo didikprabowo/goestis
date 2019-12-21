@@ -12,10 +12,10 @@
 
 1. Import Table Schema, schema.sql
 2. Change COnfig in .env
-3. Running Prouccer
+3. Running Producer
 
 ```
-go run main.go prouccer
+go run main.go producer
 
 ```
 
