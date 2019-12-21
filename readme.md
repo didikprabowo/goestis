@@ -1,4 +1,4 @@
-## Test Skill in Kumparan
+## Test Skill
 
 ### Requirement
 
@@ -11,7 +11,7 @@
 ### How to Install and Running
 
 1. Import Table Schema, schema.sql
-2. Change COnfig in .env
+2. Change Config in .env
 3. Running Producer
 
 ```
