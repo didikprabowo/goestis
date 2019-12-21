@@ -1,4 +1,4 @@
-## Tesing Skill in Kumparan
+## Test Skill in Kumparan
 
 ### Requirement
 
